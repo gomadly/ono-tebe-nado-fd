@@ -29,9 +29,12 @@
   list-style: none;
 }
 
+.header__logo {
+  width: 148px;
+  height: 105px;
+}
+
 .header__logo-image {
-  top: 92px;
-  left: 478px;
   width: 148px;
   height: 105px;
 }
