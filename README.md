@@ -1,1 +1,1 @@
-https://github.com/gomadly/ono-tebe-nado
+https://github.com/gomadly/ono-tebe-nado-fd
