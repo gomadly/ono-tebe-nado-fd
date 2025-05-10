@@ -53,7 +53,7 @@
 
 .cover {
   position: relative;
-  height: 757px;
+  min-height: 757px;
   margin-bottom: 180px;
   padding-top: 165px;
   padding-right: 50px;
@@ -76,7 +76,6 @@
   display: flex;
   flex-direction: column;
   gap: 20px;
-  height: 385px;
   color: white;
   font-weight: 700;
   font-size: 100px;
@@ -129,6 +128,7 @@
   padding-left: 31px;
   color: white;
   background-color: transparent;
+  text-transform: uppercase;
 }
 
 .lots {
